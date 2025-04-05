@@ -1,0 +1,15 @@
+{
+  "name": "FREE PALESTINE",
+  "symbol": "FREEPAL",
+  "description": "A token to show support for Palestine.",
+  "image": "https://raw.githubusercontent.com/chaneldigital/freepal-token/main/assets/mainnet/7UCfLD5YQxjqLXEskRgtfjQxPxdw4hxFNGCrMhYxUoeH/logo.png",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "EXGpcTGTQXxs8LgRYwTcj1QrNE3WYVFwM5ZKwoJ3JF7Z",
+        "share": 100
+      }
+    ]
+  }
+}
